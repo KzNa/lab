@@ -1,0 +1,24 @@
+
+.demo-section {
+    width: 600px;
+}
+
+.metrotable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.metrotable > thead > tr > th{
+    font-size: 1.3em;
+    padding-top: 0;
+    padding-bottom: 5px;
+    color: red;
+
+}
+#clientsDb {
+    width: 550px;
+    height: 413px;
+    margin: 0px auto;
+    padding: 0px 4px 0 4px;
+
+}
